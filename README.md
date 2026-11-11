@@ -229,11 +229,6 @@ Open the folder and run `index.html` with the Live Server extension.
 
 ---
 
-# Live Demo
-
-*Add the deployed link here*
-
----
 
 # Team
 
