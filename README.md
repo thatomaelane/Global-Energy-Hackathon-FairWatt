@@ -232,11 +232,8 @@ Open the folder and run `index.html` with the Live Server extension.
 
 # Team
 
-**[Name]** *(Project Leader)*
+**Thato Maelane** *(Project Leader)*
 
-**[Name]**
-
-**[Name]**
 
 *Developed for the Global Energy Hackathon, Brief 16.*
 
